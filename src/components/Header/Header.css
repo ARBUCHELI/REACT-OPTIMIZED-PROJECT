@@ -3,9 +3,25 @@
   justify-content: space-between;
   align-items: center;
   padding: 0 12px;
+  background-color: #c94c4c;
+  color: white;
 }
 
 .actionsContainer {
   display: flex;
   column-gap: 8px;
+}
+
+.actionsContainer button {
+  font-family:'Courier New', Courier, monospace;
+  font-weight: bold;
+  font-size: 1.5em;
+  border: 3px solid white;
+  color: #b1cbbb;
+}
+
+h2 {
+  font-family:'Courier New', Courier, monospace;
+  font-weight: bold;
+  font-size: 2.5em;
 }

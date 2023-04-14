@@ -11,7 +11,7 @@ const Header = React.memo(() => {
 
   return (
     <header className="header">
-      <h2>Todos</h2>
+      <h2>BUCHELI SUPER FAST TODO LIST</h2>
 
       <section className="actionsContainer">
         <button
